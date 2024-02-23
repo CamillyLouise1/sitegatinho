@@ -1,0 +1,50 @@
+body {
+   margin: 0;
+   padding: 0;   
+}
+
+header {
+   background-color: #eb6440 ;
+   display: flex;
+   justify-content: space-between;
+   align-items: baseline;
+}
+
+nav ul li {
+   display: inline;   
+}
+
+nav ul {
+   list-style-type: none;
+   text-align: left;  
+}
+
+
+
+a {
+   font-family: "Nunito";
+   font-weight: 800;
+   margin-inline-start: 1cm;
+   color: black;
+   text-decoration: none;
+}
+
+.caixa{
+   text-align: center;
+}
+
+footer{
+   background-color: #eb6440 ;
+   display: flex;
+   justify-content: space-between;
+   align-items: baseline;
+   justify-content: center;
+}
+
+p {
+   font-family: "Nunito";
+   font-weight: 800;
+   margin-inline-start: 1cm;
+   color: black;
+   text-decoration: none;
+}
